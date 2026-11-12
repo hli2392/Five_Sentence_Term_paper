@@ -1,5 +1,5 @@
 ---
-title: "Five_Sentence Term Paper"
+title: "Five Sentence Term Paper"
 date: today
 author:
  - name: Helen Li
